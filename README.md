@@ -2,7 +2,7 @@
 
 โปรเจคนี้คือการ Implement อัลกอริทึม A* (A-Star) ด้วยภาษา C# เพื่อใช้ในการค้นหาเส้นทางที่สั้นที่สุดสำหรับหุ่นยนต์แบบตาราง (Grid-based Environment) และนำเส้นทาง (Path) ที่ได้ไปสั่งการควบคุมหุ่นยนต์จริงในโปรแกรม Simulator
 
-![[GIF of the robot solving the 9x9 grid]](./media/simulation_demo.gif)
+![[GIF of the robot solving the 9x9 grid]](./media/AstarDemo.gif)
 
 ---
 
@@ -104,7 +104,7 @@ Point end = new Point(5, 4);
 * **ภาษา:** C#
 * **อัลกอริทึม:** A* (A-Star) Pathfinding
 * **โครงสร้างข้อมูล:** Custom Priority Queue (List-based)
-* **Platform:** c/c++ robot simulator สามารถดาวน์โหลดและดู document ได้ที่ https://krumonrobot.blogspot.com/
+* **Platform:** c/c++ robot simulator สามารถดาวน์โหลดและดู document ได้ที่ http://www.krumon-robot.com/article/8/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1-c-robot-sim-full-v-1-0-130715-no-key
 
 ---
 
